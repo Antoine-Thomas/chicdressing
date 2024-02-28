@@ -1,0 +1,149 @@
+# Translation of Plugins - LazyLoad Plugin – Lazy Load Images, Videos, and Iframes - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - LazyLoad Plugin – Lazy Load Images, Videos, and Iframes - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-07 06:34:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - LazyLoad Plugin – Lazy Load Images, Videos, and Iframes - Stable (latest release)\n"
+
+#. Plugin Name of the plugin
+msgid "Lazy Load - Optimize Images"
+msgstr "Lazy Load - Optimiser les images"
+
+#. Author of the plugin
+msgid "WP Rocket"
+msgstr "WP Rocket"
+
+#. Translators: %1$s = PHP version required.
+#: src/rocket-lazyload-requirements-check.php:133
+msgid "PHP %1$s. To use this %2$s version, please ask your web host how to upgrade your server to PHP %1$s or higher."
+msgstr "PHP v%1$s. Pour utiliser cette version de %2$s, veuillez demander à votre hébergeur de mettre à niveau votre serveur à PHP v%1$s ou plus."
+
+#. Translators: %1$s = WordPress version required.
+#: src/rocket-lazyload-requirements-check.php:138
+msgid "WordPress %1$s. To use this %2$s version, please upgrade WordPress to version %1$s or higher."
+msgstr "WordPress v%1$s. Pour utiliser cette version de %2$s, veuillez mettre à niveau WordPress à la version %1$s ou plus."
+
+#. Translators: %1$s = strong opening tag, %2$s = strong closing tag.
+#: views/admin-page.php:121
+msgid "%1$s24/7 support%2$s"
+msgstr "%1$ssupport 24/7%2$s"
+
+#. Translators: %1$s = Plugin name, %2$s = Plugin version.
+#: src/rocket-lazyload-requirements-check.php:129
+msgid "To function properly, %1$s %2$s requires at least:"
+msgstr "Pour fonctionner correctement, %1$s %2$s nécessite au moins :"
+
+#: src/Admin/AdminPage.php:103
+msgid "LazyLoad by WP Rocket"
+msgstr "LazyLoad par WP Rocket"
+
+#: src/Admin/AdminPage.php:116
+msgid "LazyLoad"
+msgstr "Lazyload"
+
+#: views/imagify-notice.php:34
+msgid "Speed up your website and boost your SEO by reducing image file sizes without losing quality with Imagify."
+msgstr "Accélérez votre site web et améliorez votre référencement en réduisant le poids de vos image sans perte de qualité avec Imagify."
+
+#: views/imagify-notice.php:37
+msgid "Install Imagify for Free"
+msgstr "Installer Imagify gratuitement"
+
+#: views/admin-page.php:17
+msgid "Iframes &amp; Videos"
+msgstr "Iframes et vidéos"
+
+#: views/admin-page.php:69
+msgid "We recommend for you"
+msgstr "Nous vous recommandons"
+
+#: views/admin-page.php:71
+msgid "Go Premium with"
+msgstr "Passez Premium avec"
+
+#: views/admin-page.php:76
+msgid "Get WP&nbsp;Rocket Now!"
+msgstr "Obtenez WP Rocket maintenant !"
+
+#. Translators: %1$s = strong opening tag, %2$s = strong closing tag.
+#: views/admin-page.php:85
+msgid "%1$sMultiple new features%2$s to further improve your load time"
+msgstr "%1$sMultiple nouvelles fonctionnalités%2$s pour réduire encore votre temps de chargement"
+
+#. Translators: %1$s = strong opening tag, %2$s = strong closing tag.
+#: views/admin-page.php:91
+msgid "All you need to %1$simprove your Google PageSpeed%2$s score"
+msgstr "Tout ce dont vous avez besoin pour améliorer votre score sur %1$sGoogle PageSpeed%2$s"
+
+#. Translators: %1$s = strong opening tag, %2$s = strong closing tag.
+#: views/admin-page.php:97
+msgid "%1$sBoost your SEO%2$s by preloading your cache page for Google’s bots"
+msgstr "%1$sAméliorez votre SEO%2$s en préchargeant votre page de cache pour les robots de Google"
+
+#. Translators: %1$s = strong opening tag, %2$s = strong closing tag.
+#: views/admin-page.php:103
+msgid "Watch your conversion rise with the %1$s100%% WooCommerce compatibility%2$s"
+msgstr "Regardez votre conversion augmenter avec une compatibilité %1$sà 100%% avec WooCommerce%2$s"
+
+#. Translators: %1$s = strong opening tag, %2$s = strong closing tag.
+#: views/admin-page.php:109
+msgid "Minimal configuration, %1$sImmediate results%2$s"
+msgstr "Configuration minimale, %1$srésultats immédiats.%2$s"
+
+#. Translators: %1$s = strong opening tag, %2$s = strong closing tag.
+#: views/admin-page.php:115
+msgid "Set up takes %1$s5 minutes flat%2$s"
+msgstr "La mise en route prend %1$s5 minutes maximum%2$s"
+
+#: views/admin-page.php:20
+msgid "Replace Youtube videos by thumbnail"
+msgstr "Remplacer les vidéos Youtube par une miniature"
+
+#. Author URI of the plugin
+msgid "https://wp-rocket.me"
+msgstr "https://wp-rocket.me"
+
+#: views/admin-page.php:14
+msgid "Images"
+msgstr "Images"
+
+#: src/Subscriber/AdminPageSubscriber.php:109 views/admin-page.php:32
+msgid "Settings"
+msgstr "Réglages"
+
+#: views/admin-page.php:47
+msgid "Lazyload"
+msgstr "Chargement différé"
+
+#: views/admin-page.php:48
+msgid "LazyLoad displays images, iframes and videos on a page only when they are visible to the user."
+msgstr "LazyLoad affiche les images, les iframes et les vidéos sur une page uniquement lorsqu’elles sont visibles par le visiteur."
+
+#: views/admin-page.php:49
+msgid "This mechanism reduces the number of HTTP requests and improves the loading time."
+msgstr "Ce mécanisme réduit le nombre de demandes de HTTP et réduit le temps de chargement."
+
+#: views/admin-page.php:132
+msgid "Save changes"
+msgstr "Enregistrer les modifications"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/rocket-lazy-load/"
+msgstr "http://wordpress.org/plugins/rocket-lazy-load/"
+
+#. Description of the plugin
+msgid "The tiny Lazy Load script for WordPress without jQuery or others libraries."
+msgstr "LazyLoad est un tout petit script pour WordPress sans jQuery ou d’autres bibliothèques."
+
+#. Translators: %1$s is a <strong> tag, %2$s is </strong><br>, %3$s is the
+#. complete link tag to Rocket Lazy Load review form, %4$s is the closing </a>
+#. tag.
+#: views/admin-page.php:38
+msgid "%1$sDo you like this plugin?%2$s Please take a few seconds to %3$srate it on WordPress.org%4$s!"
+msgstr "%1$sVous aimez ce plugin ?%2$s SVP prenez quelques secondes pour %3$sle noter sur WordPress.org%4$s !"

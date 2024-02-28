@@ -1,0 +1,27 @@
+# BEGIN LSCACHE
+# END LSCACHE
+# BEGIN NON_LSCACHE
+# END NON_LSCACHE
+
+# Ajout des en-têtes CORS pour autoriser les requêtes depuis n'importe quelle origine
+<IfModule mod_headers.c>
+    <FilesMatch "\.(ttf|ttc|otf|eot|woff|woff2|font.css|css)$">
+        Header set Access-Control-Allow-Origin "*"
+    </FilesMatch>
+</IfModule>
+
+# BEGIN WordPress
+# Les directives (lignes) entre "BEGIN WordPress" et "END WordPress" sont
+# générées dynamiquement, et ne doivent être modifiées que via les filtres WordPress.
+# Toute modification des directives entre ces marqueurs sera écrasée.
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+    RewriteBase /
+    RewriteRule ^index\.php$ - [L]
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress

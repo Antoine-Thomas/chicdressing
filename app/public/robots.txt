@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /ads.txt
+Disallow: /ads
+Sitemap: http://localhost:10052/sitemap.xml
