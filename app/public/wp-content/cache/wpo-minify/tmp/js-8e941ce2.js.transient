@@ -1,1 +1,0 @@
-{"request":{"hurl":"http:\/\/localhost:10052\/wp-content\/plugins\/wp-retina-2x\/app\/debug.js","inline":"","enable_minification":true,"type":"js","handle":"wr2x-debug-js","version":1708958431},"log":{"url":"\/wp-content\/plugins\/wp-retina-2x\/app\/debug.js","success":true},"code":"window.devicePixelRatio=2;\n","status":true}
