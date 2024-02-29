@@ -1,0 +1,116 @@
+#0-9
+AI Engine|mwai_logs|ai-engine
+AI Engine|mwai_logmeta|ai-engine
+AI Engine|mwai_chats|ai-engine
+AI Engine|mwai_vectors|ai-engine
+AI Engine|mwai_files|ai-engine
+AI Engine|mwai_filemeta|ai-engine
+
+#B
+
+BlogVault|bv_activities_store|blogvault-real-time-backup
+BlogVault|bv_fw_requests|blogvault-real-time-backup
+BlogVault|bv_lp_requests|blogvault-real-time-backup
+BlogVault|bv_ip_store|blogvault-real-time-backup
+
+#C
+
+#D
+Database Cleaner|dbclnr_fake_table|database-cleaner
+
+#E
+
+#H
+
+#I
+
+#M
+Media Cleaner|mclean_scan|media-cleaner,media-cleaner-pro
+Media Cleaner|mclean_refs|media-cleaner,media-cleaner-pro
+
+#N
+Ninja Forms|nf3_objects|ninja-forms
+Ninja Forms|nf3_object_meta|ninja-forms
+Ninja Forms|nf3_relationships|ninja-forms
+
+#P
+Photo Engine|lrsync|wplr-sync
+Photo Engine|lrsync_meta|wplr-sync
+Photo Engine|lrsync_relations|wplr-sync
+Photo Engine|lrsync_collections|wplr-sync
+
+#R
+Rank Math SEO|rank_math_404_logs|seo-by-rank-math
+
+#S
+
+#W
+
+WooCommerce|woocommerce_sessions|woocommerce
+WooCommerce|woocommerce_api_keys|woocommerce
+WooCommerce|woocommerce_attribute_taxonomies|woocommerce
+WooCommerce|woocommerce_downloadable_product_permissions|woocommerce
+WooCommerce|woocommerce_order_items|woocommerce
+WooCommerce|woocommerce_order_itemmeta|woocommerce
+WooCommerce|woocommerce_tax_rates|woocommerce
+WooCommerce|woocommerce_tax_rate_locations|woocommerce
+WooCommerce|woocommerce_shipping_zones|woocommerce
+WooCommerce|woocommerce_shipping_zone_locations|woocommerce
+WooCommerce|woocommerce_shipping_zone_methods|woocommerce
+WooCommerce|woocommerce_payment_tokens|woocommerce
+WooCommerce|woocommerce_payment_tokenmeta|woocommerce
+WooCommerce|woocommerce_log|woocommerce
+WooCommerce|wc_webhooks|woocommerce
+WooCommerce|wc_download_log|woocommerce
+WooCommerce|wc_product_meta_lookup|woocommerce
+WooCommerce|wc_tax_rate_classes|woocommerce
+WooCommerce|wc_order_product_lookup|woocommerce
+WooCommerce|wc_order_stats|woocommerce
+WooCommerce|wc_customer_lookup|woocommerce
+WooCommerce|wc_order_coupon_lookup|woocommerce
+WooCommerce|wc_order_tax_lookup|woocommerce
+WooCommerce|wc_admin_notes|woocommerce
+WooCommerce|wc_admin_note_actions|woocommerce
+WooCommerce|wc_category_lookup|woocommerce
+WooCommerce|wc_reserved_stock|woocommerce
+WooCommerce|wc_product_download_directories|woocommerce
+
+WordFence|wfBlockedIPLog|wordfence
+WordFence|wfBlocks7|wordfence
+WordFence|wfConfig|wordfence
+WordFence|wfCrawlers|wordfence
+WordFence|wfFileChanges|wordfence
+WordFence|wfFileMods|wordfence
+WordFence|wfHits|wordfence
+WordFence|wfHoover|wordfence
+WordFence|wfIssues|wordfence
+WordFence|wfKnownFileList|wordfence
+WordFence|wfLiveTrafficHuman|wordfence
+WordFence|wfLocs|wordfence
+WordFence|wfLogins|wordfence
+WordFence|wfls_2fa_secrets|wordfence
+WordFence|wfls_settings|wordfence
+WordFence|wfNotifications|wordfence
+WordFence|wfPendingIssues|wordfence
+WordFence|wfReverseCache|wordfence
+WordFence|wfSNIPCache|wordfence
+WordFence|wfStatus|wordfence
+WordFence|wfTrafficRates|wordfence
+
+WPML|icl_translate|sitepress-multilingual-cms
+WPML|icl_translate_job|sitepress-multilingual-cms
+WPML|icl_core_status|sitepress-multilingual-cms
+WPML|icl_languages|sitepress-multilingual-cms
+WPML|icl_languages_translations|sitepress-multilingual-cms
+WPML|icl_string_translations|sitepress-multilingual-cms
+WPML|icl_string_packages|sitepress-multilingual-cms
+WPML|icl_translation_status|sitepress-multilingual-cms
+WPML|icl_translation_batches|sitepress-multilingual-cms
+WPML|icl_strings|sitepress-multilingual-cms
+WPML|icl_string_status|sitepress-multilingual-cms
+WPML|icl_translations|sitepress-multilingual-cms
+
+#Y
+
+Yoast SEO|yoast_seo_links|wordpress-seo
+Yoast SEO|yoast_seo_meta|wordpress-seo

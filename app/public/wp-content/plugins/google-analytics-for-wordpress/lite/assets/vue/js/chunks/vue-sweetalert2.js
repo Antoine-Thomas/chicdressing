@@ -1,0 +1,1 @@
+import{s as o}from"./sweetalert2.js";function e(){return typeof window<"u"}var s=function(){};s.install=function(t,r){var n;e()?n=r?o.mixin(r):o:n=function(){return Promise.resolve()},t.swal=n,t.prototype.hasOwnProperty("$swal")||Object.defineProperty(t.prototype,"$swal",{get:function(){return n}})};export{s as V};

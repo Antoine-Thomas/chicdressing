@@ -1,0 +1,50 @@
+{
+    "packages": [
+        {
+            "name": "woocommerce/action-scheduler-job-framework",
+            "version": "2.0.0",
+            "version_normalized": "2.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/woocommerce/action-scheduler-job-framework.git",
+                "reference": "b0b21b9cc87e476ba7f8817050b39274ea7d6732"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/woocommerce/action-scheduler-job-framework/zipball/b0b21b9cc87e476ba7f8817050b39274ea7d6732",
+                "reference": "b0b21b9cc87e476ba7f8817050b39274ea7d6732",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0"
+            },
+            "require-dev": {
+                "woocommerce/woocommerce-sniffs": "0.1.0"
+            },
+            "time": "2021-05-20T02:32:48+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Automattic\\WooCommerce\\ActionSchedulerJobFramework\\": "src/"
+                }
+            },
+            "scripts": {
+                "phpcs": [
+                    "phpcs -s -p"
+                ]
+            },
+            "license": [
+                "GNU"
+            ],
+            "description": "A job framework for Action Scheduler (actionscheduler.org)",
+            "support": {
+                "source": "https://github.com/woocommerce/action-scheduler-job-framework/tree/2.0.0",
+                "issues": "https://github.com/woocommerce/action-scheduler-job-framework/issues"
+            },
+            "install-path": "../woocommerce/action-scheduler-job-framework"
+        }
+    ],
+    "dev": false,
+    "dev-package-names": []
+}

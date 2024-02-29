@@ -1,0 +1,65 @@
+[2024-02-25 16:07:18 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-02-25 16:07:18 : INFO] - Processing task with ID : 26, and type 'smush' 
+[2024-02-25 16:07:18 : INFO] - Re_Smush_It_Task - attachment ID : 958, started on : February 25, 2024 04:07:18 
+[2024-02-25 16:07:18 : INFO] - File: sasha-lebedeva-VwGcsgeM-YM-unsplash.jpg, Compression quality: 92 
+[2024-02-25 16:07:19 : INFO] - Backing up the original image - 2020/08/sasha-lebedeva-VwGcsgeM-YM-unsplash-updraft-pre-smush-original.jpg 
+[2024-02-25 16:07:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-02-25 16:07:24 : INFO] - Successfully optimized the image - C:\Users\searc\Local Sites\chick-dressing\app\public/wp-content/uploads/2020/08/sasha-lebedeva-VwGcsgeM-YM-unsplash.jpg.Le fichier a été compressé de 354.57 KB à 354.57 KB, en économisant 0 % à l’aide de WP-Optimize 
+[2024-02-25 16:07:24 : INFO] - Completed processing task with ID : 26, and type 'smush' 
+[2024-02-25 17:35:45 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-02-25 17:37:26 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-02-25 17:37:46 : INFO] - Processing task with ID : 27, and type 'smush' 
+[2024-02-25 17:37:46 : INFO] - Re_Smush_It_Task - attachment ID : 1028, started on : February 25, 2024 05:37:46 
+[2024-02-25 17:37:46 : INFO] - File: item.png, Compression quality: 60 
+[2024-02-25 17:37:46 : INFO] - Backing up the original image - 2024/02/item-updraft-pre-smush-original.png 
+[2024-02-25 17:37:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-02-25 17:37:47 : INFO] - Successfully optimized the image - C:\Users\searc\Local Sites\chick-dressing\app\public/wp-content/uploads/2024/02/item.png.Le fichier a été compressé de 892 bytes à 891 bytes, en économisant 0.11 % à l’aide de WP-Optimize 
+[2024-02-25 17:37:47 : INFO] - Completed processing task with ID : 27, and type 'smush' 
+[2024-02-25 17:37:48 : INFO] - Processing task with ID : 28, and type 'smush' 
+[2024-02-25 17:37:48 : INFO] - Re_Smush_It_Task - attachment ID : 1028, started on : February 25, 2024 05:37:48 
+[2024-02-25 17:37:48 : INFO] - File: item.png, Compression quality: 60 
+[2024-02-25 17:37:48 : INFO] - Backing up the original image - 2024/02/item-updraft-pre-smush-original.png 
+[2024-02-25 17:37:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-02-25 17:37:49 : INFO] - Successfully optimized the image - C:\Users\searc\Local Sites\chick-dressing\app\public/wp-content/uploads/2024/02/item.png.Le fichier a été compressé de 891 bytes à 891 bytes, en économisant 0 % à l’aide de WP-Optimize 
+[2024-02-25 17:37:49 : INFO] - Completed processing task with ID : 28, and type 'smush' 
+[2024-02-25 17:54:07 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-02-25 17:54:07 : INFO] - Processing task with ID : 29, and type 'smush' 
+[2024-02-25 17:54:07 : INFO] - Re_Smush_It_Task - attachment ID : 951, started on : February 25, 2024 05:54:07 
+[2024-02-25 17:54:07 : INFO] - File: ussama-azam-5IcEBmSOQq0-unsplash.jpg, Compression quality: 60 
+[2024-02-25 17:54:07 : INFO] - Backing up the original image - 2022/05/ussama-azam-5IcEBmSOQq0-unsplash-updraft-pre-smush-original.jpg 
+[2024-02-25 17:54:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-02-25 17:54:11 : INFO] - Successfully optimized the image - C:\Users\searc\Local Sites\chick-dressing\app\public/wp-content/uploads/2022/05/ussama-azam-5IcEBmSOQq0-unsplash.jpg.Le fichier a été compressé de 355.10 KB à 351.17 KB, en économisant 1.11 % à l’aide de WP-Optimize 
+[2024-02-25 17:54:11 : INFO] - Completed processing task with ID : 29, and type 'smush' 
+[2024-02-25 18:07:29 : INFO] - Pruning the smush log file 
+[2024-02-25 22:48:07 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-02-25 22:48:07 : INFO] - Processing task with ID : 30, and type 'smush' 
+[2024-02-25 22:48:07 : INFO] - Re_Smush_It_Task - attachment ID : 960, started on : February 25, 2024 10:48:07 
+[2024-02-25 22:48:07 : INFO] - File: yogendra-singh-kOIODZD_ByQ-unsplash.jpg, Compression quality: 60 
+[2024-02-25 22:48:08 : INFO] - Backing up the original image - 2020/08/yogendra-singh-kOIODZD_ByQ-unsplash-updraft-pre-smush-original.jpg 
+[2024-02-25 22:48:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-02-25 22:48:12 : INFO] - Successfully optimized the image - C:\Users\searc\Local Sites\chick-dressing\app\public/wp-content/uploads/2020/08/yogendra-singh-kOIODZD_ByQ-unsplash.jpg.Le fichier a été compressé de 221.32 KB à 221.32 KB, en économisant 0 % à l’aide de WP-Optimize 
+[2024-02-25 22:48:12 : INFO] - Completed processing task with ID : 30, and type 'smush' 
+[2024-02-26 01:11:18 : INFO] - Pruning the smush log file 
+[2024-02-26 23:18:07 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-02-26 23:18:09 : INFO] - Processing task with ID : 99, and type 'smush' 
+[2024-02-26 23:18:09 : INFO] - Re_Smush_It_Task - attachment ID : 834, started on : February 26, 2024 11:18:09 
+[2024-02-26 23:18:09 : INFO] - File: sample-image-8.png, Compression quality: 60 
+[2024-02-26 23:18:09 : INFO] - Backing up the original image - 2020/10/sample-image-8-updraft-pre-smush-original.png 
+[2024-02-26 23:18:12 : INFO] - Successfully optimized the image - C:\Users\searc\Local Sites\chick-dressing\app\public/wp-content/uploads/2020/10/sample-image-8.png.Le fichier a été compressé de 95.89 KB à 95.87 KB, en économisant 0.02 % à l’aide de WP-Optimize 
+[2024-02-26 23:18:12 : INFO] - Completed processing task with ID : 99, and type 'smush' 
+[2024-02-28 11:29:55 : INFO] - Pruning the smush log file 
+[2024-02-28 17:31:16 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-02-28 17:31:17 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-02-28 17:31:17 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-02-28 17:31:17 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-02-28 17:31:17 : INFO] - Processing task with ID : 126, and type 'smush' 
+[2024-02-28 17:31:17 : INFO] - Re_Smush_It_Task - Attachment ID : 1090, Started on : February 28, 2024 05:31:17 
+[2024-02-28 17:31:17 : INFO] - File: woocommerce-placeholder.png, Compression quality: 60 
+[2024-02-28 17:31:19 : INFO] - Backing up the original image - woocommerce-placeholder-updraft-pre-smush-original.png 
+[2024-02-28 17:31:25 : INFO] - Successfully optimized the image - C:\Users\searc\Local Sites\chick-dressing\app\public/wp-content/uploads/woocommerce-placeholder.png.Le fichier a été compressé de 100.24 KB à 73.05 KB, en économisant 27.12 % à l’aide de WP-Optimize 
+[2024-02-28 17:31:25 : INFO] - Completed processing task with ID : 126, and type 'smush' 
+[2024-02-28 17:31:25 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-02-28 17:31:25 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-02-28 17:31:25 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-02-28 17:31:25 : INFO] - Cleaning up tasks of type (smush). A total of 7 tasks will be deleted. 
+[2024-02-28 19:45:20 : INFO] - Pruning the smush log file 

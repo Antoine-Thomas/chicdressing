@@ -1,0 +1,1 @@
+import{y as o,o as t,c as e,D as c}from"./vue.esm-bundler.DzelZkHk.js";import{_ as s}from"./_plugin-vue_export-helper.BN1snXvA.js";const r={},a={class:"aioseo-index-status"};function i(u,_){const n=o("svg-circle-check-solid");return t(),e("div",a,[c(n)])}const f=s(r,[["render",i]]);export{f as I};

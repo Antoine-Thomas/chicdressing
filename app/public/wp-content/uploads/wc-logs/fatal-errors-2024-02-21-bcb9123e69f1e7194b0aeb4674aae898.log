@@ -1,0 +1,18 @@
+2024-02-21T18:41:38+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\Users\searc\Local Sites\chick-dressing\app\public\wp-content\plugins\wysija-newsletters\helpers\file.php:161
+Stack trace:
+#0 C:\Users\searc\Local Sites\chick-dressing\app\public\wp-content\plugins\wysija-newsletters\helpers\file.php(161): implode(Array, '|')
+#1 C:\Users\searc\Local Sites\chick-dressing\app\public\wp-content\plugins\wysija-newsletters\core\base.php(820): WYSIJA_help_file->clear()
+#2 C:\Users\searc\Local Sites\chick-dressing\app\public\wp-content\plugins\wysija-newsletters\helpers\cron.php(184): WYSIJA::croned_daily()
+#3 C:\Users\searc\Local Sites\chick-dressing\app\public\wp-content\plugins\wysija-newsletters\helpers\cron.php(120): WYSIJA_help_cron->run_scheduled_task('daily')
+#4 C:\Users\searc\Local Sites\chick-dressing\app\public\wp-content\plugins\wysija-newsletters\helpers\cron.php(56): WYSIJA_help_cron->check_scheduled_task(Array, 'daily')
+#5 C:\Users\searc\Local Sites\chick-dressing\app\public\wp-content\plugins\wysija-newsletters\core\base.php(1525): WYSIJA_help_cron->run()
+#6 C:\Users\searc\Local Sites\chick-dressing\app\public\wp-includes\class-wp-hook.php(324): init_wysija_cron('')
+#7 C:\Users\searc\Local Sites\chick-dressing\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\searc\Local Sites\chick-dressing\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\Users\searc\Local Sites\chick-dressing\app\public\wp-settings.php(643): do_action('init')
+#10 C:\Users\searc\Local Sites\chick-dressing\app\public\wp-config.php(103): require_once('C:\\Users\\searc\\...')
+#11 C:\Users\searc\Local Sites\chick-dressing\app\public\wp-load.php(50): require_once('C:\\Users\\searc\\...')
+#12 C:\Users\searc\Local Sites\chick-dressing\app\public\wp-cron.php(46): require_once('C:\\Users\\searc\\...')
+#13 {main}
+  thrown dans C:\Users\searc\Local Sites\chick-dressing\app\public\wp-content\plugins\wysija-newsletters\helpers\file.php à la ligne 161
+

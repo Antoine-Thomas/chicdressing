@@ -1,0 +1,188 @@
+#ashe-demo-import span {
+  display: inline-block;
+  font-size: 14px;
+  line-height: 20px;
+  margin-top: 5px;
+  margin-left: 3px;
+}
+
+.dashicons.spin {
+   animation: dashicons-spin 1s infinite;
+   animation-timing-function: linear;
+}
+
+@keyframes dashicons-spin {
+   0% {
+      transform: rotate( 0deg );
+   }
+   100% {
+      transform: rotate( 360deg );
+   }
+}
+
+/* .after-import-notice {
+   display: none;
+} */
+
+/* --------------- Style --------------- */
+html {
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+   -webkit-box-sizing: inherit;
+   -moz-box-sizing: inherit;
+   box-sizing: inherit;
+   outline: 0 !important;
+}
+
+#wpwrap {
+   background: #ffffff;
+}
+
+.extra-options-page-wrap {
+   margin-top: 100px;
+   text-align: center;
+}
+
+.extra-options h1 {
+   color: #444;
+   font-size: 45px;
+   font-weight: bold;
+}
+
+.extra-options h1 + .notice {
+   display: none !important;
+}
+
+.extra-options p {
+   font-size: 16px;
+   color: #777;
+}
+
+.extra-options .before-import-notice {
+   font-size: 14px;
+   color: #777;
+}
+
+.extra-options .button-primary {
+   padding: 8px 45px;
+   background-color: #22AFE4;
+   border-color: #22AFE4;
+   box-shadow: 0 0 3px 0 #22AFE4 !important;
+}
+
+.extra-options .button-primary:hover,
+.extra-options .button-primary:focus {
+   background-color: #1C91BB;
+   border-color: #1C91BB;
+}
+
+.ashextra-plugin-activation {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 65%;
+  margin: 50px auto;
+}
+
+.ashextra-plugin-activation .plugin-box {
+  display: flex;
+  align-items: center;
+  width: 30%;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px 0 rgba(0,0,0,0.1);
+  font-weight: 500;
+  font-size: 14px;
+  color: #444;
+}
+
+.ashextra-plugin-activation .plugin-box span {
+  width: 70%;
+  text-align: left;
+  padding-left: 10px;
+}
+
+.ashextra-plugin-activation .plugin-box img {
+  width: 32px;
+  max-width: 100%;
+}
+
+.plugin-box input {
+  position: absolute;
+  z-index: -1000;
+  left: -1000px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+}
+
+.plugin-box label {
+  position: relative;
+  display: block;
+  width: 40px;
+  height: 22px;
+  border-radius: 20px;
+  background: #e8e8e8;
+  cursor: pointer;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+}
+
+.plugin-box input + label:after {
+  content: ' ';
+  display: block;
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #fff;
+  -webkit-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+}
+
+.plugin-box input:checked + label {
+  background: #22AFE4;
+}
+
+.plugin-box input:checked + label:after {
+  left: 18px;
+}
+
+@media screen and ( max-width: 1366px ) {
+   .ashextra-plugin-activation {
+      width: 100%;
+   }
+}
+
+@media screen and ( max-width: 1280px ) {
+   .ashextra-plugin-activation .plugin-box {
+      width: 48%;
+   }
+}
+
+@media screen and ( max-width: 800px ) {
+
+}

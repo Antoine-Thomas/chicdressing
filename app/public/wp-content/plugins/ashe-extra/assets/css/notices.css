@@ -1,0 +1,4 @@
+.sbi_notice,
+.sbi-admin-notice.notice-warning {
+  display: none !important;
+}

@@ -1,0 +1,169 @@
+/*
+Theme Name:		 chicdressing
+Theme URI:		 http://childtheme-generator.com/
+Description:	 chicdressing is a child theme of Ashe, created by ChildTheme-Generator.com
+Author:			 Chic Dressing
+Author URI:		 http://childtheme-generator.com/
+Template:		 ashe
+Version:		 1.0.0
+Text Domain:	 chicdressing
+*/
+
+
+/*
+    Add your custom styles here
+*/
+/* Tailles de police pour les balises h1 à h6 */
+h1 {
+    font-size: 36px; 
+}
+
+h2 {
+    font-size: 30px; 
+}
+
+h3 {
+    font-size: 24px; 
+}
+
+h4 {
+    font-size: 20px; 
+}
+
+h5 {
+    font-size: 18px; 
+}
+
+h6 {
+    font-size: 16px;
+} 
+
+a {
+    font-size: 12px; /* Taille de la police pour les liens */
+}
+
+.grecaptcha-badge {
+    visibility: hidden;
+}
+
+body .page-content, .page-content select, .page-content input, .page-content textarea, .page-content .post-author a, .page-content .ashe-widget a, .page-content .comment-author {
+    color: #000000;
+    font-size: 12px;
+}
+
+
+body .header-logo a{
+    color: white;
+    text-shadow: 2px 3px 5px #d0527a;
+    transform: rotate(-9deg);
+}
+.text-center{
+    text-align:center;
+}
+
+.chic-bouton{
+    color: #ffffff;
+    background-color: #333333;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 12px;
+    border: none;
+    cursor: pointer;
+    padding: 12px;
+    font-size: 14px;
+}
+
+#featured-slider{
+    margin-bottom:30px;
+}
+#chic-products{
+    padding:0 40px;
+}
+.chic-title{
+    font-family: 'Kalam';
+    font-size: 52px;
+    text-decoration: inherit;
+    text-transform: uppercase;
+    transform: rotate(-2deg);
+    margin:30px 40px;
+    text-align:center;
+    color: #9d4c64 !important;
+    line-height: 48px;
+}
+#chic-products ul.products li.product{
+    background: #f6f6f6;
+    padding-bottom: 20px;
+}
+
+/* Utiliser les sous-titres h4 pour les éléments suivants en ordre d'importance */
+
+.woocommerce ul.products li.product .woocommerce-loop-category__title,
+.woocommerce ul.products li.product .woocommerce-loop-product__title,
+.woocommerce ul.products li.product h4 {
+    font-size: 20px; /* Modifiez la taille de la police à 20px */
+}
+
+/* Style pour la liste ul.blog-grid */
+ul.blog-grid {
+    list-style: disc; /* Style de la puce de la liste */
+    padding-left: 20px; /* Espacement à gauche */
+}
+
+/* Style pour le titre h1 avec l'id 'leblog' et la classe 'chic-title' */
+h1#leblog.chic-title {
+    font-size: 24px; /* Taille de la police */
+    color: #333; /* Couleur du texte */
+    margin-top: 20px; /* Marge supérieure */
+    margin-bottom: 20px; /* Marge inférieure */
+}
+
+
+/* Rokkitt */
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('font/Rokkitt-VariableFont_wght.woff2') format('woff2'),
+         url('font/Rokkitt-Italic-VariableFont_wght.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Playfair Display */
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('font/PlayfairDisplay-VariableFont_wght.woff2') format('woff2'),
+         url('font/PlayfairDisplay-Italic-VariableFont_wght.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Open Sans */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('font/OpenSans-VariableFont_wdth,wght.woff2') format('woff2'),
+         url('font/OpenSans-Italic-VariableFont_wdth,wght.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Kalam */
+@font-face {
+    font-family: 'Kalam';
+    src: url('font/Kalam-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kalam';
+    src: url('font/Kalam-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kalam';
+    src: url('font/Kalam-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}

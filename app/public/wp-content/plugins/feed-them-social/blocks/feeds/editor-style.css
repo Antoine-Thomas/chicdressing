@@ -1,0 +1,12 @@
+@font-face {
+    font-family: SlickRemix;
+    src: url(../../admin/css/fonts/SlickRemix.eot);
+    src: url(../../admin/css/fonts/SlickRemix.eot) format('embedded-opentype'), url(../../admin/css/fonts/SlickRemix.woff) format('woff'), url(../../admin/css/fonts/SlickRemix.ttf) format('truetype'), url(../../admin/css/fonts/SlickRemix.svg#SlickRemix) format('svg');
+    font-weight: 400;
+    font-style: normal
+}
+
+.dashicons-feed-them-social::before {
+    font-family: SlickRemix, monospace  !important;
+    content: "\e600";
+}
